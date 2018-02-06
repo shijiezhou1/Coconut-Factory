@@ -1,2 +1,3 @@
 # Coconut-Factory
-The game is made for VIS 147A project
+The game is using Arduino firmata and processing to combine
+
