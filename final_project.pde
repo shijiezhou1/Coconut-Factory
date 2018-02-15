@@ -10,7 +10,6 @@ import cc.arduino.*;
 import org.firmata.*;
 import processing.serial.*;
 
-
 ///////////////////////////////sound //////
 //reference from nature relax music
 
