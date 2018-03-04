@@ -1,2 +1,2 @@
 # Coconut-Factory
-The game is using Arduino firmata and processing to combine.
+Arduino firmata and processing are used for this project
