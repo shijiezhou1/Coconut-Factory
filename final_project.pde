@@ -3,7 +3,7 @@
 // http://www.learningprocessing.com
 // Exercise 10-4: The raindrop catching game
 import processing.sound.*;
-//import all the stuffs from the import package
+
 import cc.arduino.*;
 import org.firmata.*;
 import processing.serial.*;
