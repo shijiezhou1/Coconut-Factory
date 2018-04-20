@@ -2,7 +2,6 @@
 // Reference Author: Daniel Shiffman
 // http://www.learningprocessing.com
 // Exercise 10-4: The raindrop catching game
-
 import processing.sound.*;
 
 //import all the stuffs
