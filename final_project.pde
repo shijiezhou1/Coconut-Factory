@@ -1,15 +1,10 @@
-// Learning Processing
-// Reference Author: Daniel Shiffman
-// http://www.learningprocessing.com
-// Exercise 10-4: The raindrop catching game
 import processing.sound.*;
-
 import cc.arduino.*;
 import org.firmata.*;
 import processing.serial.*;
 
-///////////////////////////////sound //////
-//reference from nature relax music
+
+///////////////////////////////sound //////////////////reference from nature relax music
 
 SoundFile file;
 SoundFile backgroundsong; 
@@ -197,7 +192,7 @@ void draw() {
 
     // Check the timer
     if (buttonPressed == true || keyPressed == true) { //the button is hitted
-      arduino.digitalWrite(pin7, Arduino.HIGH);
+      arduino.digitalWrite(pin7, Arduino.HIGH); //light the LED on
 
       // Deal with coconut drops
       // Initialize one drop
