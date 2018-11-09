@@ -14,7 +14,7 @@ final artwork, the team will also write a paper about the conceptual and technic
 
 <a href="https://hlou29.wixsite.com/coconutfactrory" >Project Link</a>
 <br />
-<a href="https://photos.google.com/share/AF1QipNhajeie5Q4biKghKl04oiNoYqw8544lsla8FiLHtdzqiW2kLI7ULc9DbEgQB391g?key=QXRVNjRpb2NKdHE3aGNoVEsxZ2l0VDFLZGR6b2p3" >More shows: </a>
+<a href="https://photos.google.com/share/AF1QipNhajeie5Q4biKghKl04oiNoYqw8544lsla8FiLHtdzqiW2kLI7ULc9DbEgQB391g?key=QXRVNjRpb2NKdHE3aGNoVEsxZ2l0VDFLZGR6b2p3" >More shows </a>
 
 ### Installing
 
