@@ -10,7 +10,6 @@ final artwork, the team will also write a paper about the conceptual and technic
   
 <img src="https://static.wixstatic.com/media/74ac36_a23bdd2f4f4348a5ae8c671bf51fa251~mv2_d_1600_1244_s_2.jpeg/v1/fill/w_768,h_600,al_c,q_85,usm_0.66_1.00_0.01/74ac36_a23bdd2f4f4348a5ae8c671bf51fa251~mv2_d_1600_1244_s_2.webp" width="50%">
 <img src="/img/3Dcoconut.png" width="50%">
-<img src="/img/3d.pmg" width="50%">
 <img src="/img/hammer.png" width="50%">
 <img src="/img/response.png" width="50%">
 <img src="/img/workflow.png" width="50%">
@@ -33,6 +32,6 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Java](https://www.java.com/) - The web framework used
+* [Npm](https://npm.org/) - Dependency Management
+* [Git](https://github.com) - Used to code version control
