@@ -37,3 +37,5 @@ Add additional notes about how to deploy this on a live system
 * [Java](https://www.java.com/) - The web framework used
 * [Npm](https://npm.org/) - Dependency Management
 * [Git](https://github.com) - Used to code version control
+* [Arduino](hjp://www.arduino.cc/) - Used for sensor control
+* [Processing](hjp://processing.org/) - coding for graphic display
