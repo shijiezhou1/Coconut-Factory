@@ -1,5 +1,5 @@
-# Project Title
-# Coconut-Factory
+# Project Title - Coconut-Factory
+
 Arduino firmata and processing are used for this project
 The game is to collect the coconut water in order to gain more points, and if collects fail, it will be losing points
 
