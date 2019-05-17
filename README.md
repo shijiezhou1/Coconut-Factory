@@ -19,11 +19,13 @@ final artwork, the team will also write a paper about the conceptual and technic
 ### Installing
 
 ```
-npm install
+install java
+install processing
 ```
 
 ```
-npm install https://github.com/shijiezhou1/Coconut-Factory/
+https://www.java.com/en/
+https://processing.org/
 ```
 
 ## Deployment
