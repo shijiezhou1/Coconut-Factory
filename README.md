@@ -19,8 +19,11 @@ final artwork, the team will also write a paper about the conceptual and technic
 ### Installing
 
 ```
-install java
-install processing
+// step 1 : 
+// install java
+
+// step 2 : 
+// install processing
 ```
 
 ```
@@ -28,9 +31,11 @@ https://www.java.com/en/
 https://processing.org/
 ```
 
-## Deployment
+## Run
 
-Add additional notes about how to deploy this on a live system
+Once you install JDK 8 and processing, import the project. 
+
+Make sure includes all the Java Library from so it won't be failed on running.
 
 ## Built With
 
